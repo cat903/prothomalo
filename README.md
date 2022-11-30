@@ -6,3 +6,7 @@
   - step2- Open Command Prompt on Project Directory
   - step3-Install_dependencies: Enter this command into Command Prompt `npm i --save`
   - step4-After_installing_dependencies: Enter this command to run the scraper `node app.js`
+
+# What it Does?
+
+- Scrapes সর্বশেষ সংবাদ every 60 seconds and stores into prothomalo.json
